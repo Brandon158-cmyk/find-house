@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "findhouse",
-    "slug": "findhouse",
+    "name": "find_house",
+    "slug": "find_house",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "restate",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
